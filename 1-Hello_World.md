@@ -11,6 +11,12 @@
 		return 0;
 	}
 		
-## 1.注释:  
-单行注释：\"//" <br>
-多行注释：\" /*********/  "
+## 1.程序结构<br>
+	-预处理命令<br>
+	'#import <Fundation/Fundation.h>' 是一个预处理程序命令，它告诉Objective-C编译器在进行实际编译之前包含Foundation.h头文件
+	-接口<br>
+	-实现<br>
+	-方法<br>
+	-变量<br>
+	-声明和表达<br>
+	-注释<br>
