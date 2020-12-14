@@ -11,16 +11,21 @@
 	}
 		
 ## 1.程序结构<br>
-	-预处理命令<br>
+	- 预处理命令<br>
 		**\#\import \<\Fundation/Fundation.h\>\** 是一个预处理程序命令，它告诉Objective-C编译器在进行实际编译之前包含Foundation.h头文件<br>		
-	-接口<br>
+	- 接口<br>
 	
-		<font color=aqua>@interface</font> SampleClass:NSObject<br>
-		<font color=aqua>(void)</font>sampleMethod;<br>
-		<font color=aqua>@end</font>
+		@interface SampleClass:NSObject<br>
+		(void)sampleMethod;<br>
+		@end<br>
 		
-	-实现<br>
-	-方法<br>
-	-变量<br>
-	-声明和表达<br>
-	-注释<br>
+	- 实现/方法<br>
+	
+		@implementation SampleClass<br>
+		(void)sampleMethod {<br>
+		NSLog(@"Hello, World! \n");<br>
+		}<br>
+				
+	- 变量<br>
+	- 声明和表达<br>
+	- 注释<br>
