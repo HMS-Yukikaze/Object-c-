@@ -1,6 +1,5 @@
 # 第一个Object C程序  
 ***eg:***<br>
-
 	
 	//First Object-c code
 	#import <Fundation/Fundation.h>
@@ -15,9 +14,11 @@
 	-预处理命令<br>
 		**\#\import \<\Fundation/Fundation.h\>\** 是一个预处理程序命令，它告诉Objective-C编译器在进行实际编译之前包含Foundation.h头文件<br>		
 	-接口<br>
+	
 		<font color=aqua>@interface</font> SampleClass:NSObject<br>
 		<font color=aqua>(void)</font>sampleMethod;<br>
 		<font color=aqua>@end</font>
+		
 	-实现<br>
 	-方法<br>
 	-变量<br>
