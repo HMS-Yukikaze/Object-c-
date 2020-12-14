@@ -13,9 +13,7 @@
 		
 ## 1.程序结构<br>
 	-预处理命令<br>
-	
-		`#import <Fundation/Fundation.h>` 是一个预处理程序命令，它告诉Objective-C编译器在进行实际编译之前包含Foundation.h头文件<br>
-		
+		**\#\import \<\Fundation/Fundation.h\>\** 是一个预处理程序命令，它告诉Objective-C编译器在进行实际编译之前包含Foundation.h头文件<br>		
 	-接口<br>
 	-实现<br>
 	-方法<br>
