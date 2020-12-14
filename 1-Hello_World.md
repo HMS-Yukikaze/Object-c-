@@ -1,6 +1,7 @@
 # 第一个Object C程序  
-## eg:  
-	```Object C
+***eg:***<br>
+	```
+	//First Object-c code
 	#import <Fundation/Fundation.h>
 	int main(int argc , char * argv[]){
 		NSAutoReleasePool = [NSAutoReleasePoolalloc] init;
@@ -9,3 +10,5 @@
 		return 0;
 	}
 	```	
+## 1.注释：  
+	
