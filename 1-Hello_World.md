@@ -2,12 +2,10 @@
 ***eg:***<br>
 	
 	//First Object-c code
-	#import <Fundation/Fundation.h>
-	int main(int argc , char * argv[]){
-		NSAutoReleasePool = [NSAutoReleasePoolalloc] init;
-		NSLog(@"Hello World");
-		[pool drain]
-		return 0;
+	#import <Fundation/Fundation.h>  
+	int main(int argc , char * argv[]){  		
+		NSLog(@"Hello World");  		
+		return 0;  
 	}
 		
 ## 1.程序结构<br>
