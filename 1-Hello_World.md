@@ -28,7 +28,7 @@
 		NSLog(@"Hello, World! \n");<br>
 		}<br>
 
-`\`**@implementation SampleClass{......} ** \``实现了`\`**SampleClass**\``接口,`\`**(void)sampleMethod**\``实现了`\`**sampleMethod**`\`方法<br>
+**@implementation SampleClass{......}** 实现了 **SampleClass**接口,**(void)sampleMethod**实现了**sampleMethod**方法<br>
 
 - 变量<br>
 
