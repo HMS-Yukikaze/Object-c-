@@ -1,7 +1,7 @@
 # 第一个Object C程序  
 ***eg:***<br>
 
-	```
+	
 	//First Object-c code
 	#import <Fundation/Fundation.h>
 	int main(int argc , char * argv[]){
@@ -10,6 +10,6 @@
 		[pool drain]
 		return 0;
 	}
-	```	
+		
 ## 1.注释：  
 	
