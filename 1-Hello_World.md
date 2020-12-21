@@ -1,6 +1,5 @@
 # 第一个Object C程序  
-***eg:***<br>
-	
+***eg:***
 	//First Object-c code
 	#import <Fundation/Fundation.h>  
 	int main(int argc , char * argv[]){  		
