@@ -21,7 +21,7 @@
 
 - 实现/方法<br>
 	
-		@implementation SampleClass<br>
+		@implementation SampleClass</br>
 		(void)sampleMethod {<br>
 		NSLog(@"Hello, World! \n");<br>
 		}<br>
